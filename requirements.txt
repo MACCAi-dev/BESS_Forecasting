@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+seaborn
+statsmodels
+xgboost
+scikit-learn
+shap
+scikit-optimize
+sktime
