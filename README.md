@@ -59,8 +59,7 @@ Ensure you have the following installed:
 ## Project Structure
 
 ```
-├── Frequency_Response_Forecasting.ipynb    # Main Jupyter Notebook
-└── README.md                               # Project documentation
+├── main.ipynb    # Main Jupyter Notebook
 ```
 
 ## Team Members
