@@ -30,7 +30,7 @@ Ensure you have the following installed:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/your-repository.git
+   git clone https://github.com/esemsc-kds24/BESS_Project
    cd your-repository
    ```
 
@@ -40,7 +40,6 @@ Ensure you have the following installed:
    source venv/bin/activate  # For Windows: venv\Scripts\activate
    pip install -r requirements.txt
    ```
-   *If a `requirements.txt` file is not provided, ensure to install the necessary packages (e.g., pandas, numpy, matplotlib, seaborn, statsmodels, xgboost, scikit-learn, shap, scikit-optimize).*
 
 ### Usage
 
@@ -54,7 +53,7 @@ Ensure you have the following installed:
    ```
 
 2. **Open the Notebook:**
-   Open the main notebook file (e.g., `Frequency_Response_Forecasting.ipynb`) to run through the complete workflow.
+   Open the main notebook file (e.g., `main.ipynb`) to run through the complete workflow.
 
 ## Project Structure
 
