@@ -1,6 +1,6 @@
-# Frequency Response Forecasting for Battery Storage (Group 16)
+# Frequency Response Forecasting for Battery Storage
 
-This repository contains a Jupyter Notebook that implements a forecasting model for dynamic frequency response (DFR) service prices in battery storage systems. The notebook covers the entire workflow—from data preprocessing and feature engineering to model training, evaluation, and interpretability analysis.
+This repository contains a Jupyter Notebook that implements a forecasting model for dynamic frequency response (DFR) service prices in battery storage systems. The notebook covers the entire workflow—from data preprocessing and feature engineering to model training, evaluation, and interpretability analysis. This project was part of the LCP Delta Hackaton, using data provided by their data integration platform, Enact.
 
 ## Overview
 
@@ -73,6 +73,6 @@ This project is developed by Group 16.
 - Kevin Danniel Suoth (kevin.suoth24@imperial.ac.uk)
 ## Contact
 
-For any questions or feedback, please reach out to Group 16 at [andi.dewi24@imperial.ac.uk].
+For any questions or feedback, please reach out to Rosita at [andi.dewi24@imperial.ac.uk].
 
 ```
